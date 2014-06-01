@@ -1,4 +1,4 @@
-# Java JAR parser
+# Java JAR methods parser
 
 This is a simple shell script + python script to parse a JAR file and extract only public static methods with a pre-defined set of arguments and return types.
 
